@@ -50,7 +50,8 @@ City: City where the hospital is located.
 State: State where the hospital is located.
 PostalCode: Postal code of the hospital location
 
-Project Resources
+Project Resourceshttps://github.com/pamela-omo/Grace-Hospital-Transactions.git
+
 
 
 Tools Used 
